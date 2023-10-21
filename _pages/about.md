@@ -21,7 +21,7 @@ redirect_from:
 # Selected Experience
 
 ## 👨🏻‍🔬 Professional Experience
-Additionally, I have professional experience working as an **AI Student Researcher** at Assert AI. \
+I have professional experience working as an **AI Student Researcher** at Assert AI. \
 There, I deployed customized YOLOv4 models for surveillance tasks leveraging the Nvidia Jetson series GPU accelerators, generated tailored datasets, and trained YOLOv4 models for diverse object detection and classification scenarios.
 
 ## 📚 Teaching Contributions
