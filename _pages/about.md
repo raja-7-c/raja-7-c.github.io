@@ -25,7 +25,7 @@ I have professional experience working as an **AI Student Researcher** at Assert
 There, I deployed customized YOLOv4 models for surveillance tasks leveraging the Nvidia Jetson series GPU accelerators, generated tailored datasets, and trained YOLOv4 models for diverse object detection and classification scenarios.
 
 ## 📚 Teaching Contributions
-As the Head Teaching Assistant for "Introduction to Public Health Informatics" at IIT Bombay, I manage course logistics, assist in evaluating answer scripts, design projects, and conduct tutorials for a large student cohort of 210+.
+As the Head Teaching Assistant for "Introduction to Public Health Informatics" at IIT Bombay, I managed course logistics, assisted in evaluating answer scripts, designed projects, and conducted tutorials for a large student cohort of 210+.
 
 
 
