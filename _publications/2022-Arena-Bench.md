@@ -1,15 +1,62 @@
 ---
-title: "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments"
+title: "Eyes Show the Way: Modelling Gaze Behaviour for Hallucination Detection"
 collection: publications
 permalink: /publication/2022-Arena-Bench
-excerpt: 'The ability to autonomously navigate safely, especially within dynamic environments, is paramount for mobile robotics. In recent years, DRL approaches have shown superior performance in dynamic obstacle avoidance. However, these learning-based approaches are often developed in specially designed simulation environments and are hard to test against conventional planning approaches. Furthermore, the integration and deployment of these approaches into real robotic platforms are not yet completely solved. In this paper, we present Arena-bench, a benchmark suite to train, test, and evaluate navigation planners on different robotic platforms within 3D environments. It provides tools to design and generate highly dynamic evaluation worlds, scenarios, and tasks for autonomous navigation and is fully integrated into the robot operating system. To demonstrate the functionalities of our suite, we trained a DRL agent on our platform and compared it against a variety of existing different model-based and learning-based navigation approaches on a variety of relevant metrics. Finally, we deployed the approaches towards real robots and demonstrated the reproducibility of the results.'
+excerpt: 'Detecting hallucinations in natural language
+processing (NLP) is a critical undertaking that
+demands a deep understanding of both the semantic and pragmatic aspects of languages.
+Cognitive approaches that leverage users’ behavioural signals, such as gaze, have demonstrated effectiveness in addressing NLP tasks
+with similar linguistic complexities. However,
+their potential in the context of hallucination
+detection remains largely unexplored. In this
+paper, we propose a novel cognitive approach
+for hallucination detection that leverages gaze
+signals from humans. We first collect an eyetracking corpus consisting of 500 instances, annotated by 5 annotators for the task of hallucination detection. Our analysis reveals that humans selectively attend to relevant parts of the
+text based on distributional similarity, similar to
+the attention bias phenomenon in psychology.
+We identify two attention strategies employed
+by humans: global attention, which focuses
+on the most informative sentence, and local
+attention, which focuses on important words
+within a sentence. Leveraging these insights,
+we propose a novel cognitive framework for
+hallucination detection that incorporates these
+attention biases. Experimental evaluations on
+the FactCC dataset demonstrate the efficacy of
+our approach, obtaining a balanced accuracy of
+87.1%. Our study highlights the potential of
+gaze-based approaches in addressing the task
+of hallucination detection and sheds light on
+the cognitive processes employed by humans
+in identifying inconsistencies.'
 date: 2022-10-01
-venue: 'Robotics and Automation Letters (RA-L)'
-paperurl: 'https://arxiv.org/abs/2206.05728'
-citation: 'L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.'
+venue: 'Findings of Empirical Methods in Natural Language Processing. EMNLP 2023.'
 ---
-The ability to autonomously navigate safely, especially within dynamic environments, is paramount for mobile robotics. In recent years, DRL approaches have shown superior performance in dynamic obstacle avoidance. However, these learning-based approaches are often developed in specially designed simulation environments and are hard to test against conventional planning approaches. Furthermore, the integration and deployment of these approaches into real robotic platforms are not yet completely solved. In this paper, we present Arena-bench, a benchmark suite to train, test, and evaluate navigation planners on different robotic platforms within 3D environments. It provides tools to design and generate highly dynamic evaluation worlds, scenarios, and tasks for autonomous navigation and is fully integrated into the robot operating system. To demonstrate the functionalities of our suite, we trained a DRL agent on our platform and compared it against a variety of existing different model-based and learning-based navigation approaches on a variety of relevant metrics. Finally, we deployed the approaches towards real robots and demonstrated the reproducibility of the results. The code is publicly available at [this http URL](https://github.com/ignc-research/arena-bench).
+Detecting hallucinations in natural language
+processing (NLP) is a critical undertaking that
+demands a deep understanding of both the semantic and pragmatic aspects of languages.
+Cognitive approaches that leverage users’ behavioural signals, such as gaze, have demonstrated effectiveness in addressing NLP tasks
+with similar linguistic complexities. However,
+their potential in the context of hallucination
+detection remains largely unexplored. In this
+paper, we propose a novel cognitive approach
+for hallucination detection that leverages gaze
+signals from humans. We first collect an eyetracking corpus consisting of 500 instances, annotated by 5 annotators for the task of hallucination detection. Our analysis reveals that humans selectively attend to relevant parts of the
+text based on distributional similarity, similar to
+the attention bias phenomenon in psychology.
+We identify two attention strategies employed
+by humans: global attention, which focuses
+on the most informative sentence, and local
+attention, which focuses on important words
+within a sentence. Leveraging these insights,
+we propose a novel cognitive framework for
+hallucination detection that incorporates these
+attention biases. Experimental evaluations on
+the FactCC dataset demonstrate the efficacy of
+our approach, obtaining a balanced accuracy of
+87.1%. Our study highlights the potential of
+gaze-based approaches in addressing the task
+of hallucination detection and sheds light on
+the cognitive processes employed by humans
+in identifying inconsistencies.
 
-[Download paper here](https://arxiv.org/abs/2206.05728)
-
-Recommended citation: L. Kastner et. al. (2022) "Arena-Bench: A Benchmarking Suite for Obstacle Avoidance Approaches in Highly Dynamic Environments" Robotics and Automation Letters.
