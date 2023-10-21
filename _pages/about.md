@@ -10,7 +10,6 @@ redirect_from:
 
 
 
-![Illustration of psycholinguistic and Cognitively Inspired NLP](/images/bcs.png){: .align-right width="300px"}
 👨🏻‍💻 I'm a final-year graduate student at IIT Bombay.
 
 🔬 My research interests are in bridging cognitive science and language modalities with a strong focus on leveraging these technologies for positive societal impact!
