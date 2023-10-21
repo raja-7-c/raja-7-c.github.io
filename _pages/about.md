@@ -20,24 +20,17 @@ redirect_from:
 
 # Selected Experience
 
-## 🤖 Open Source Contributions
-I have experience contributing to [Arena Bench](https://github.com/Arena-Rosnav) a large open-source project for robotic obstacle avoidance using Deep Reinforcement Learning.
-
-Moreover, I have published a [respective paper](https://sudo-boris.github.io/publication/2022-Arena-Bench) at the IROS conference and in the Robotics and Automation Letters (RA-L) journal.
-
 ## 📜 Reimplementing and Reproducing Papers
-I have experience with independent research. I have implemented the Reward Constrained Policy Optimization paper into stable-baselines3 PPO and reproduced the original results by running and tracking experiments.
-
-To accompany this work, I have submitted a blog post to the **ICLR** Blogposts Track communicating the paper's theory and my results.
+I've re-implemented and reproduced results from various research papers by conducting and meticulously documenting experiments across a range of courses.
 
 Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
 
 ## 👨🏻‍🔬 Professional Experience
-Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
-There I work on dynamic traffic flow forecasting using Graph Neural Networks.
+Additionally, I have professional experience working as an **AI Student Researcher** at Assert AI. \
+There, I deployed customized YOLOv4 models for surveillance tasks leveraging the Nvidia Jetson series GPU accelerators, generated tailored datasets, and trained YOLOv4 models for diverse object detection and classification scenarios.
 
 ## 📚 Teaching Contributions
-To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
+As the Head Teaching Assistant for "Introduction to Public Health Informatics" at IIT Bombay, I manage course logistics, assist in evaluating answer scripts, design projects, and conduct tutorials for a large student cohort of 210+.
 
 
 
