@@ -20,11 +20,6 @@ redirect_from:
 
 # Selected Experience
 
-## 📜 Reimplementing and Reproducing Papers
-I've re-implemented and reproduced results from various research papers by conducting and meticulously documenting experiments across a range of courses.
-
-Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/portfolio/RCPPO/).
-
 ## 👨🏻‍🔬 Professional Experience
 Additionally, I have professional experience working as an **AI Student Researcher** at Assert AI. \
 There, I deployed customized YOLOv4 models for surveillance tasks leveraging the Nvidia Jetson series GPU accelerators, generated tailored datasets, and trained YOLOv4 models for diverse object detection and classification scenarios.
