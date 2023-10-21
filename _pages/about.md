@@ -17,14 +17,21 @@ redirect_from:
 📚 I'm currently working towards my Master's Thesis at the junction of natural language processing (NLP), machine learning (ML), and computational social science.
 
 
-# Selected Experience
+# Research Experience
 
-## 👨🏻‍🔬 Professional Experience
+##  Project 1
+
+##  Project 2
+
+##  Project 3
+
+##  Project 4
+
+# Professional Experience
 I have professional experience working as an **AI Student Researcher** at Assert AI. \
 There, I deployed customized YOLOv4 models for surveillance tasks leveraging the Nvidia Jetson series GPU accelerators, generated tailored datasets, and trained YOLOv4 models for diverse object detection and classification scenarios.
 
-## 📚 Teaching Contributions
-As the Head Teaching Assistant for "Introduction to Public Health Informatics" at IIT Bombay, I managed course logistics, assisted in evaluating answer scripts, designed projects, and conducted tutorials for a large student cohort of 210+.
+
 
 
 
