@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "👋🏼 Hello there, I'm Boris!"
+title: "👋🏼 Hello there, I'm Raja!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -10,14 +10,13 @@ redirect_from:
 
 
 
-![Illustration of combining vision and language modalities](/images/image_to_text_vis.png){: .align-right width="300px"}
-👨🏻‍💻 I'm a final year graduate student at the TU Berlin.
+![Illustration of psycholinguistic and Cognitively Inspired NLP](/images/bcs.png){: .align-right width="300px"}
+👨🏻‍💻 I'm a final year graduate student at IIT Bombay.
 
-🔬 My research interests are in bridging vision and language modalities and Self-Supervised Learning!
+🔬 My research interests are in bridging cognitive science and language modalities with a strong focus on leveraging these technologies for positive societal impact!
 
-📚 I'm currently working towards my Master's Thesis in the field of Computer Vision and Natural Language Processing.
+📚 I'm currently working towards my Master's Thesis at the junction of natural language processing (NLP), machine learning (ML), and computational social science.
 
-📽️ I am also interested in assisting others on their path in the world of Machine Learning and academia.
 
 # Selected Experience
 
@@ -37,7 +36,7 @@ Feel free to look at my specific [portfolio entry](https://sudo-boris.github.io/
 Additionally, I have professional experience working as an **Applied Machine Learning Student Researcher** at the Fraunhofer Heinrich Hertz Institute. \
 There I work on dynamic traffic flow forecasting using Graph Neural Networks.
 
-## 📚 Teaching and Community Contributions
+## 📚 Teaching Contributions
 To further contribute to the Machine Learning community, I have a [YouTube](https://www.youtube.com/@borismeinardus) and [Medium](https://medium.com/@boris.meinardus) channel where I publish educational Machine Learning content.
 
 
