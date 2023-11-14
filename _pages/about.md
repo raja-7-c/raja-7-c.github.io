@@ -10,9 +10,9 @@ redirect_from:
 
 
 
-👨🏻‍💻 I'm a final-year graduate student at IIT Bombay.
+👨🏻‍💻 I am a final-year student pursuing a BTech + MTech (Interdisciplinary Dual Degree) in Materials Science and Healthcare Informatics at IIT Bombay.
 
-🔬 My research interests are in bridging cognitive science and language modalities with a strong focus on leveraging these technologies for positive societal impact!
+🔬 I am passionate about applying AI in healthcare, focusing on biomedical data science, NeuroAI, Deep Learning, Computer Vision, and Natural Language Processing. I aim to leverage expertise in these areas to advance medical diagnosis and improve patient well-being through innovative AI solutions.
 
 📚 I'm currently working towards my Master's Thesis at the junction of natural language processing (NLP), machine learning (ML), and computational social science.
 
