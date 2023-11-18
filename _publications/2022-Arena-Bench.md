@@ -29,8 +29,8 @@ gaze-based approaches in addressing the task
 of hallucination detection and sheds light on
 the cognitive processes employed by humans
 in identifying inconsistencies.'
-date:2023-10-01
-venue:'In Findings of Association for Computational Linguistics EMNLP 2023'
+date: 2023-10-01
+venue: 'In Findings of Association for Computational Linguistics EMNLP 2023'
 ---
 Detecting hallucinations in natural language
 processing (NLP) is a critical undertaking that
