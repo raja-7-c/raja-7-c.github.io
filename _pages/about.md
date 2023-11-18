@@ -18,9 +18,18 @@ redirect_from:
 
 
 # Research Experience
-##  Mental Disorder Identification through Linguistic Markers
-
-##  Cognitively Inspired Hallucination Detection
+##  Mental Disorder Identification through Linguistic Markers | Master's Thesis, IIT Bombay
+Guide: [Prof. Pushpak Bhattacharyya, CFILT Lab](https://www.cfilt.iitb.ac.in/)
+- Proposed a unique method to convert social media text into time series data for post‑level analysis of mental disorders
+- Developed a novel framework for mental disorder identification via foundational deep learning models which surpasses the
+performance of LLM‑based approaches by 4.67% in the F1 score on mental conditions: Depression, Self‑harm, and Anorexia
+- Explored semantic overlaps among these disorders, underscoring the value of cross‑domain data in mental health research
+  
+##  Cognitively Inspired Hallucination Detection | UT Austin & IIT Bombay
+Guide:  [Prof. Abhijit Mishra](https://abhijitmishra.github.io/) & [Prof. Pushpak Bhattacharyya, CFILT Lab](https://www.cfilt.iitb.ac.in/)
+- Curated eye‑tracking data with 500 instances for the task of hallucination detection and developed a BERT‑based framework
+- Proposed a novel attention bias framework inspired by human behavior for detecting hallucinated texts
+- Currently experimenting with prompt‑based approaches for hallucination detection and mitigation in dialogue setting
 
 ##  Semi‑Supervised Medical Image Classification
 
