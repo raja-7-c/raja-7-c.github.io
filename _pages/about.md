@@ -19,13 +19,13 @@ redirect_from:
 
 # Research Experience
 
-##  Project 1
+##  Mental Disorder Identification through Linguistic Markers
 
-##  Project 2
+##  Cognitively Inspired Hallucination Detection
 
-##  Project 3
+##  Semi‑Supervised Medical Image Classification
 
-##  Project 4
+##  Depression Severity Prediction using Text Transcript
 
 # Professional Experience
 I have professional experience working as an **AI Student Researcher** at Assert AI. \
