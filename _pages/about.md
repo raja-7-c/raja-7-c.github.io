@@ -18,7 +18,6 @@ redirect_from:
 
 
 # Research Experience
-
 ##  Mental Disorder Identification through Linguistic Markers
 
 ##  Cognitively Inspired Hallucination Detection
