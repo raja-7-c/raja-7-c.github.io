@@ -38,7 +38,7 @@ Guide:  [Prof. Kshitij Jadhav](https://www.kcdh.iitb.ac.in/people/)
 - Demonstrated superiority of the pipeline over ResNet18 in medical image classification with limited training data
 
 ##  Depression Severity Prediction using Text Transcript | R&D Project, IIT Bombay
-Guide: [Prof. Pushpak Bhattacharyya, CFILT Lab](https://www.cse.iitb.ac.in/~pb/)
+Guide: [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/)
 - Implemented depression severity prediction in interview transcripts using word embedding vectors: Glove, Word2Vec, BERT
 - Evaluated model performance using cross‑entropic test loss, with BERT‑based model achieving F1‑score of 0.90
 - Conducted live demo of the system to predict one out of five depression severity in texts using Hugging Face hub and gradio
