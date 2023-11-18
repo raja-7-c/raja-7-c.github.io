@@ -30,7 +30,7 @@ of hallucination detection and sheds light on
 the cognitive processes employed by humans
 in identifying inconsistencies.'
 date: 2023-10-01
-venue: 'In Findings of Association for Computational Linguistics EMNLP'
+venue: 'Findings of Association for Computational Linguistics EMNLP'
 ---
 Detecting hallucinations in natural language
 processing (NLP) is a critical undertaking that
