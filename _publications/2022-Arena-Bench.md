@@ -60,3 +60,4 @@ of hallucination detection and sheds light on
 the cognitive processes employed by humans
 in identifying inconsistencies.
 
+[Download paper here](https://aclanthology.org/2023.findings-emnlp.764.pdf)
