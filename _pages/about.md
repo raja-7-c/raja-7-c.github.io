@@ -22,7 +22,7 @@ redirect_from:
 Guide: [Prof. Pushpak Bhattacharyya, CFILT Lab](https://www.cse.iitb.ac.in/~pb/)
 - Proposed a unique method to convert social media text into time series data for post‑level analysis of mental disorders
 - Developed a novel framework for mental disorder identification via foundational deep learning models which surpasses the
-performance of BERT‑based approaches by 4.67% in the F1 score on mental conditions: Depression, Self‑harm, and Anorexia
+performance of BERT‑based approaches by 5% in the F1 score on mental conditions: Depression, Self‑harm, and Anorexia
 - Explored semantic overlaps among these disorders, underscoring the value of cross‑domain data in mental health research
   
 ##  Cognitively Inspired Hallucination Detection | Research Project, UT Austin & IIT Bombay
