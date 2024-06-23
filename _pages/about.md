@@ -10,11 +10,11 @@ redirect_from:
 
 
 
-👨🏻‍💻 I am a final-year student pursuing a BTech + MTech (Interdisciplinary Dual Degree) in Materials Science and Healthcare Informatics at IIT Bombay.
+👨🏻‍💻 I am a final-year student pursuing a BTech (Materials Science) + MTech in Healthcare Informatics at IIT Bombay.
 
-🔬 I am passionate about applying AI in healthcare, focusing on psycholinguistics, NeuroAI, and Language Processing. I aim to leverage expertise in these areas to advance medical diagnosis and improve patient well-being through innovative AI solutions.
+🔬 I am passionate about applying AI in healthcare, focusing on psycholinguistics, NeuroAI, and Language Processing.
 
-📚 I'm currently working towards my Master's Thesis at the junction of natural language processing (NLP), machine learning (ML), and computational social science.
+📚 I've completed my Master's Thesis at the junction of natural language processing (NLP), machine learning (ML), and computational social science.
 
 
 # Research Experience
@@ -29,19 +29,11 @@ performance of BERT‑based approaches by 5% in the F1 score on mental condition
 Guide:  [Prof. Abhijit Mishra](https://abhijitmishra.github.io/) & [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/)
 - Curated eye‑tracking data with 500 instances for the task of hallucination detection and developed a BERT‑based framework
 - Proposed a novel attention bias framework inspired by human behavior for detecting hallucinated texts
-- Currently experimenting with prompt‑based approaches for hallucination detection and mitigation in a dialogue setting
 
-##  Semi‑Supervised Medical Image Classification | R&D Project, IIT Bombay
-Guide:  [Prof. Kshitij Jadhav](https://www.kcdh.iitb.ac.in/people/)
-- Devised a method to classify lymphocytic cells in WSI patches using the SAM followed by Semi‑Supervised Data Programming
-- Implemented a pipeline for image segmentation followed by classification, resulting in a 0.75 F1 score using 800 segments
-- Demonstrated superiority of the pipeline over ResNet18 in medical image classification with limited training data
-
-##  Depression Severity Prediction using Text Transcript | R&D Project, IIT Bombay
-Guide: [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/)
-- Implemented depression severity prediction in interview transcripts using word embedding vectors: Glove, Word2Vec, BERT
-- Evaluated model performance using cross‑entropic test loss, with the BERT‑based model achieving an F1‑score of 0.90
-- Conducted live demo of the system to predict one out of five depression severity in texts using Hugging Face hub and gradio
+##  Multimodal Mixup Contrastive Learning for Multimodal Classification | Research Project, Monash University & IIT Bombay
+Guide:  [Prof. Kshitij Jadhav](https://www.kcdh.iitb.ac.in/people/) & Dr. Deval Mehta
+- Implemented a multimodal contrastive learning objective for image‑text classification using the extension of mixup strategy
+- Experimented using unimodality supervision, cross‑attention on diverse datasets (N24News, ROSMAP, BRCA, and Food‑101)
 
 # Professional Experience
 I have professional experience working as an **AI Student Researcher** at Assert AI. \
