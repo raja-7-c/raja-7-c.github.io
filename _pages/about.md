@@ -31,7 +31,7 @@ Guide:  [Prof. Abhijit Mishra](https://abhijitmishra.github.io/) & [Prof. Pushpa
 - Proposed a novel attention bias framework inspired by human behavior for detecting hallucinated texts
 
 ##  Multimodal Mixup Contrastive Learning for Multimodal Classification | Research Project, Monash University & IIT Bombay
-Guide:  [Prof. Kshitij Jadhav](https://www.kcdh.iitb.ac.in/people/) & Dr. Deval Mehta
+Guide:  [Prof. Kshitij Jadhav](https://scholar.google.ch/citations?hl=en&user=VY8oCm0AAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Deval Mehta](https://sites.google.com/view/mehtadeval)
 - Implemented a multimodal contrastive learning objective for image‑text classification using the extension of mixup strategy
 - Experimented using unimodality supervision, cross‑attention on diverse datasets (N24News, ROSMAP, BRCA, and Food‑101)
 
