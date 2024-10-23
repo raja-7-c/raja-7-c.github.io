@@ -10,11 +10,11 @@ redirect_from:
 
 
 
-👨🏻‍💻 I am a final-year student pursuing a BTech (Materials Science) + MTech in Healthcare Informatics at IIT Bombay.
+👨🏻‍💻 I am a Research Engineer at the CNRS, based at the  CerCo in Toulouse, France.
 
-🔬 I am passionate about applying AI in healthcare, focusing on psycholinguistics, NeuroAI, and Language Processing.
+🔬 I am passionate about Mumltimodal Representation Learning, NeuroAI, and AI/ML for healthcare. Committed to developing technologies that enhance lives.
 
-📚 I've completed my Master's Thesis at the junction of natural language processing (NLP), machine learning (ML), and computational social science.
+📚 I've completed my Master's Thesis from IIT Bombay at the junction of natural language processing (NLP), machine learning (ML), and computational social science.
 
 
 # Research Experience
