@@ -10,4 +10,6 @@ Deep multimodal learning has shown remarkable success by leveraging contrastive 
 
 [Download paper here](https://arxiv.org/abs/2409.17777)
 
+Another version of the paper accepted at NeurIPS 2024 Workshop on Unifying Representations in Neural Models (UniReps)
+[Link](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=KQuqOvMAAAAJ&citation_for_view=KQuqOvMAAAAJ:eQOLeE2rZwMC)
 ---
