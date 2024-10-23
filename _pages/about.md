@@ -12,7 +12,7 @@ redirect_from:
 
 👨🏻‍💻 I am a Research Engineer at the CNRS, based at the  CerCo in Toulouse, France.
 
-🔬 I am passionate about Mumltimodal Representation Learning, NeuroAI, and AI/ML for healthcare. Committed to developing technologies that enhance lives.
+🔬 I am passionate about Multimodal Representation Learning, NeuroAI, and AI/ML for healthcare. Committed to developing technologies that enhance lives.
 
 📚 I've completed my Master's Thesis from IIT Bombay at the junction of natural language processing (NLP), machine learning (ML), and computational social science.
 
