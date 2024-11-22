@@ -18,6 +18,18 @@ redirect_from:
 
 
 # Research Experience
+
+##  Deep‑learning Implementations of the Global Workspace Theory
+Guide: [Prof. Rufin VanRullen, VanRullen Lab](https://rufinv.github.io/)
+- Working on a transformer‑based semi‑supervised approach for multimodal learning through Global Workspace Theory
+- Exploring efficient fine‑tuning methods for multimodal large language models (MLLMs) to integrate Global Workspace
+
+##  Multimodal Mixup Contrastive Learning for Multimodal Classification | Research Project, Monash University & IIT Bombay
+Guide:  [Prof. Kshitij Jadhav](https://scholar.google.ch/citations?hl=en&user=VY8oCm0AAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Deval Mehta](https://sites.google.com/view/mehtadeval)
+- Developed a novel multimodal contrastive loss incorporating mixup training to improve representation learning for complex real‑world multimodal data relations, beating SOTA on four diverse public multimodal classification benchmarks
+- Designed and implemented a multimodal learningframework incorporating unimodal prediction modules, afusion module, and a new Mixup‑based contrastive loss for continuous representation updating
+
+  
 ##  Mental Disorder Identification through Linguistic Markers | Master's Thesis, IIT Bombay
 Guide: [Prof. Pushpak Bhattacharyya, CFILT Lab](https://www.cse.iitb.ac.in/~pb/)
 - Proposed a unique method to convert social media text into time series data for post‑level analysis of mental disorders
@@ -29,11 +41,6 @@ performance of BERT‑based approaches by 5% in the F1 score on mental condition
 Guide:  [Prof. Abhijit Mishra](https://abhijitmishra.github.io/) & [Prof. Pushpak Bhattacharyya](https://www.cse.iitb.ac.in/~pb/)
 - Curated eye‑tracking data with 500 instances for the task of hallucination detection and developed a BERT‑based framework
 - Proposed a novel attention bias framework inspired by human behavior for detecting hallucinated texts
-
-##  Multimodal Mixup Contrastive Learning for Multimodal Classification | Research Project, Monash University & IIT Bombay
-Guide:  [Prof. Kshitij Jadhav](https://scholar.google.ch/citations?hl=en&user=VY8oCm0AAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Deval Mehta](https://sites.google.com/view/mehtadeval)
-- Implemented a multimodal contrastive learning objective for image‑text classification using the extension of mixup strategy
-- Experimented using unimodality supervision, cross‑attention on diverse datasets (N24News, ROSMAP, BRCA, and Food‑101)
 
 # Professional Experience
 I have professional experience working as an **AI Student Researcher** at Assert AI. \
