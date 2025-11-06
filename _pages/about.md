@@ -11,7 +11,7 @@ redirect_from:
 
 👨🏻‍💻 I’m currently a NeuroAI PhD researcher at CNRS–ANITI (Toulouse), where I’m deeply interested in exploring innovative research challenges. My work centers on multimodal representation learning and neuroscience-inspired AI, driven by a curiosity to build intelligent systems that can tackle real-world, large-scale problems.
 
-🔬 I’m passionate about understanding how the brain inspires efficient and generalizable representations, and how these insights can be leveraged to improve the reasoning and adaptability of modern AI systems.
+🔬 I’m passionate about understanding how the brain inspires efficient and generalizable representations, and how these insights can be leveraged to improve the adaptability of modern AI systems.
 
 📚 Before starting my PhD, I completed my Master’s thesis at IIT Bombay, working at the intersection of Natural Language Processing (NLP), Machine Learning (ML), and Computational Social Science. My research explored mental disorder prediction from social media posts using novel representation learning frameworks.
 
