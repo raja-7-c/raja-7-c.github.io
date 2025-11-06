@@ -28,7 +28,7 @@ Guide: [Prof. Rufin VanRullen, VanRullen Lab](https://rufinv.github.io/)
 ##  Multimodal Mixup Contrastive Learning for Multimodal Classification | Research Project, Monash University & IIT Bombay
 Guide:  [Prof. Kshitij Jadhav](https://scholar.google.ch/citations?hl=en&user=VY8oCm0AAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Deval Mehta](https://sites.google.com/view/mehtadeval)
 - Developed a novel multimodal contrastive loss incorporating mixup training to improve representation learning for complex real‑world multimodal data relations, beating SOTA on four diverse public multimodal classification benchmarks
-- Designed and implemented a multimodal learningframework incorporating unimodal prediction modules, afusion module, and a new Mixup‑based contrastive loss for continuous representation updating
+- Designed and implemented a multimodal learning framework incorporating unimodal prediction modules, afusion module, and a new Mixup‑based contrastive loss for continuous representation updating
 
   
 ##  Mental Disorder Identification through Linguistic Markers | Master's Thesis, IIT Bombay
