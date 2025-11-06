@@ -8,14 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+👨🏻‍💻 I’m currently a NeuroAI PhD researcher at CNRS–ANITI (Toulouse), where I’m deeply interested in exploring innovative research challenges and contributing to the development of breakthrough technologies. My work centers on multimodal representation learning and neuroscience-inspired AI, driven by a curiosity to build intelligent systems that can tackle real-world, large-scale problems.
 
+🔬 I’m passionate about understanding how the brain inspires efficient and generalizable representations, and how these insights can be leveraged to improve the reasoning and adaptability of modern AI systems.
 
-👨🏻‍💻 I am a Research Engineer at the CNRS, based at the  CerCo in Toulouse, France.
+📚 Before starting my PhD, I completed my Master’s thesis at IIT Bombay, working at the intersection of Natural Language Processing (NLP), Machine Learning (ML), and Computational Social Science. My research explored mental disorder prediction from social media posts using novel representation learning frameworks.
 
-🔬 I am passionate about Multimodal Representation Learning, NeuroAI, and AI/ML for healthcare. Committed to developing technologies that enhance lives.
-
-📚 I've completed my Master's Thesis from IIT Bombay at the junction of natural language processing (NLP), machine learning (ML), and computational social science.
-
+💡 Broadly, my interests lie in bridging cognitive neuroscience and artificial intelligence, with the long-term goal of developing models that learn and reason in a more human-like, multimodal, and interpretable way.
 
 # Research Experience
 
@@ -26,8 +25,8 @@ Guide: [Prof. Rufin VanRullen, VanRullen Lab](https://rufinv.github.io/)
 
 ##  Multimodal Mixup Contrastive Learning for Multimodal Classification | Research Project, Monash University & IIT Bombay
 Guide:  [Prof. Kshitij Jadhav](https://scholar.google.ch/citations?hl=en&user=VY8oCm0AAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Deval Mehta](https://sites.google.com/view/mehtadeval)
-- Developed a novel multimodal contrastive loss incorporating mixup training to improve representation learning for complex real‑world multimodal data relations, beating SOTA on four diverse public multimodal classification benchmarks
-- Designed and implemented a multimodal learningframework incorporating unimodal prediction modules, afusion module, and a new Mixup‑based contrastive loss for continuous representation updating
+- Developing a transformer-based semi-supervised framework for multimodal learning grounded in the principles of the Global Workspace Theory (GWT).
+- Designing Global Workspace-inspired mechanisms for VLMs to enable flexible, cross-modal communication and integration within a shared representational space.
 
   
 ##  Mental Disorder Identification through Linguistic Markers | Master's Thesis, IIT Bombay
