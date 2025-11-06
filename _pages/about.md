@@ -9,6 +9,7 @@ redirect_from:
 ---
 
 
+
 👨🏻‍💻 I’m currently a NeuroAI PhD researcher at CNRS–ANITI (Toulouse), where I’m deeply interested in exploring innovative research challenges. My work centers on multimodal representation learning and neuroscience-inspired AI, driven by a curiosity to build intelligent systems that can tackle real-world, large-scale problems.
 
 🔬 I’m passionate about understanding how the brain inspires efficient and generalizable representations, and how these insights can be leveraged to improve the adaptability of modern AI systems.
@@ -21,13 +22,13 @@ redirect_from:
 
 ##  Deep‑learning Implementations of the Global Workspace Theory
 Guide: [Prof. Rufin VanRullen, VanRullen Lab](https://rufinv.github.io/)
-- Working on a transformer‑based semi‑supervised approach for multimodal learning through Global Workspace Theory
-- Exploring efficient fine‑tuning methods for multimodal large language models (MLLMs) to integrate Global Workspace
+- Developing a transformer-based semi-supervised framework for multimodal learning grounded in the principles of the Global Workspace Theory (GWT).
+- Designing Global Workspace-inspired mechanisms for VLMs to enable flexible, cross-modal communication and integration within a shared representational space.
 
 ##  Multimodal Mixup Contrastive Learning for Multimodal Classification | Research Project, Monash University & IIT Bombay
 Guide:  [Prof. Kshitij Jadhav](https://scholar.google.ch/citations?hl=en&user=VY8oCm0AAAAJ&view_op=list_works&sortby=pubdate) & [Dr. Deval Mehta](https://sites.google.com/view/mehtadeval)
-- Developing a transformer-based semi-supervised framework for multimodal learning grounded in the principles of the Global Workspace Theory (GWT).
-- Designing Global Workspace-inspired mechanisms for VLMs to enable flexible, cross-modal communication and integration within a shared representational space.
+- Developed a novel multimodal contrastive loss incorporating mixup training to improve representation learning for complex real‑world multimodal data relations, beating SOTA on four diverse public multimodal classification benchmarks
+- Designed and implemented a multimodal learningframework incorporating unimodal prediction modules, afusion module, and a new Mixup‑based contrastive loss for continuous representation updating
 
   
 ##  Mental Disorder Identification through Linguistic Markers | Master's Thesis, IIT Bombay
